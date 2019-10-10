@@ -6,7 +6,9 @@ _Travel Times to Hospitals in Australia_
 
 by _Sebastiano Barbieri, Louisa Jorm_
 
-Paper and data links will be provided following publication (submitted June 2019).
+_Nature Scientific Data_
+
+Paper and data links will be provided following publication (accepted October 2019).
 
 In case you have any questions, contact me at s.barbieri /AT/ unsw.edu.au
 
